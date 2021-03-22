@@ -1,6 +1,6 @@
 # Module_Challenge_11
  
-First time working with Google colab, had a few difficulties with running hvplot there; I have included screenshots here from when I was able to run the code
+First time working with Google colab, had a few difficulties with running the mercado libre stock hourly data after the first time; I have included screenshots here 
 
 The tail end, forecasting, (elective) of the project has not been completed .. yet! 
 
